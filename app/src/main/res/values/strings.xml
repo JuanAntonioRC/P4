@@ -1,7 +1,28 @@
 <resources>
+    <string name="espacio"> </string>
+    <!--
+    Botones del menú principal
+    -->
     <string name="app_name">P4 PMDM</string>
     <string name="button1">Primos</string>
     <string name="button2">Países</string>
     <string name="button3">Animales</string>
     <string name="button4">Flores</string>
+
+    <!--
+   Activity generada del botón Primos
+   -->
+
+    <string name="app_name_primos">Calcular primos</string>
+    <string name="textViewPrimosCalcular">Introduzca el número a calcular</string>
+    <string name="textViewPrimosResultado">El número </string>
+    <string name="textViewPrimosResultadoPositivo">es primo</string>
+    <string name="textViewPrimosResultadoNegativo">no es primo</string>
+    <string name="ButtonCalcular">Calcular</string>
+
+    <!--
+   Activity generada del botón Primos
+   -->
+
+
 </resources>
