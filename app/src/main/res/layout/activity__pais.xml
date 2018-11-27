@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity_Pais">
+
+    <fragment
+        android:id="@+id/fragmentPais"
+        android:name="com.studium.es.practica4pmdm.FragmentPais"
+        android:layout_width="match_parent"
+        android:layout_height="214dp" />
+
+    <fragment
+        android:id="@+id/textPais1"
+        android:name="com.studium.es.practica4pmdm.FragmentCapital"
+        android:layout_width="match_parent"
+        android:layout_height="208dp" />
+
+    <Button
+        android:id="@+id/buttonComparar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/comparar" />
+
+    <TextView
+        android:id="@+id/textResultadoComparacion"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:textAlignment="center" />
+
+</LinearLayout>

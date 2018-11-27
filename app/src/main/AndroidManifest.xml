@@ -16,9 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:label="@string/app_name_primos" android:name="Activity_Primos">
-
-        </activity>
+        <activity
+            android:name=".Activity_Primos"
+            android:label="@string/app_name_primos"></activity>
+        <activity android:name=".activity_Pais" android:label="@string/app_name_pais"></activity>
     </application>
 
 </manifest>

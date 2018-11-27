@@ -12,19 +12,20 @@
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="55dp"
-        android:layout_marginTop="42dp"
+        android:layout_marginStart="109dp"
+        android:layout_marginTop="53dp"
         android:ems="10"
         android:hint="@string/textViewPrimosCalcular"
-        android:inputType="number" />
+        android:inputType="none|number" />
 
     <Button
         android:id="@+id/buttonCalcular"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="205dp"
+        android:layout_marginStart="51dp"
+        android:layout_marginTop="50dp"
+        android:layout_toEndOf="@+id/inputPrimo"
         android:inputType="number"
         android:text="@string/ButtonCalcular" />
 
@@ -32,7 +33,9 @@
         android:id="@+id/textViewResultado"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="388dp" />
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="225dp"
+        android:layout_marginTop="116dp" />
+
 </RelativeLayout>

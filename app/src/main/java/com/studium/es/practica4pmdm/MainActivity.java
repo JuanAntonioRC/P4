@@ -25,5 +25,15 @@ public class MainActivity extends AppCompatActivity {
                 MainActivity.this.startActivity(myIntent);
             }
         });
+
+        buttonPaises.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent myIntent = new Intent(MainActivity.this, activity_Pais.class);
+                MainActivity.this.startActivity(myIntent);
+
+            }
+        });
+
     }
 }

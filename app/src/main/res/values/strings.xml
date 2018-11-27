@@ -21,8 +21,35 @@
     <string name="ButtonCalcular">Calcular</string>
 
     <!--
-   Activity generada del botón Primos
+   Activity generada del botón País
    -->
+
+    <string name="app_name_pais">Países</string>
+
+    <string name="pais1">España</string>
+    <string name="pais2">Francia</string>
+    <string name="pais3">Protugal</string>
+    <string name="pais4">Estados Unidos</string>
+    <string name="pais5">Canadá</string>
+    <string name="pais6">Japón</string>
+    <string name="pais7">China</string>
+    <string name="pais8">Corea del Sur</string>
+    <string name="pais9">Alemania</string>
+    <string name="pais10">Suiza</string>
+
+    <string name="capital1">Madrid</string>
+    <string name="capital2">París</string>
+    <string name="capital3">Lisboa</string>
+    <string name="capital4">Washington D.C</string>
+    <string name="capital5">Ottawa</string>
+    <string name="capital6">Tokyo</string>
+    <string name="capital7">Pekín</string>
+    <string name="capital8">Seúl</string>
+    <string name="capital9">Berlín</string>
+    <string name="capital10">Berna</string>
+
+    <string name="comparar">Comparar</string>
+
 
 
 </resources>
