@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Practica4PMDM</string>
+    <string name="app_name">P4 PMDM</string>
+    <string name="button1">Primos</string>
+    <string name="button2">Países</string>
+    <string name="button3">Animales</string>
+    <string name="button4">Flores</string>
 </resources>
