@@ -20,6 +20,7 @@
             android:layout_height="wrap_content">
 
             <RadioGroup
+                android:id="@+id/radioGroupCapital"
                 android:layout_width="96dp"
                 android:layout_height="match_parent"
                 android:layout_alignParentTop="true"

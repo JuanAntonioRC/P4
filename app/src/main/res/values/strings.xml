@@ -49,6 +49,8 @@
     <string name="capital10">Berna</string>
 
     <string name="comparar">Comparar</string>
+    <string name="resultadoPositivo">¡Es correcto!</string>
+    <string name="resultadoNegativo">Es incorrecto :(</string>
 
 
 
