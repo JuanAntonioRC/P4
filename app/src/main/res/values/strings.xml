@@ -52,6 +52,8 @@
     <string name="resultadoPositivo">¡Es correcto!</string>
     <string name="resultadoNegativo">Es incorrecto :(</string>
 
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 
 </resources>

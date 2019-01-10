@@ -35,5 +35,23 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        buttonAnimales.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent myIntent = new Intent(MainActivity.this, ActivityFlow.class);
+                MainActivity.this.startActivity(myIntent);
+            }
+        });
+
+        buttonFlores.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+                Intent myIntent = new Intent(MainActivity.this, ActivityFlores.class);
+                MainActivity.this.startActivity(myIntent);
+
+            }
+        });
+
     }
 }
