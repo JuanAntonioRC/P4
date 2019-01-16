@@ -22,7 +22,6 @@
         <activity
             android:name=".activity_Pais"
             android:label="@string/app_name_pais" />
-        <activity android:name=".ActivityFlow" />
         <activity android:name=".ActivityFlores"></activity>
     </application>
 
