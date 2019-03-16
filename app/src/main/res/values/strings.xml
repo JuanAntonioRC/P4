@@ -1,30 +1,28 @@
 <resources>
-    <string name="espacio"> </string>
+    <string name="espacio">" "</string>
     <!--
     Botones del menú principal
     -->
     <string name="app_name">P4 PMDM</string>
-    <string name="button1">Primos</string>
-    <string name="button2">Países</string>
-    <string name="button3">Animales</string>
-    <string name="button4">Flores</string>
+    <string name="button1">Cousins</string>
+    <string name="button2">Countries</string>
+    <string name="button3">Animals</string>
+    <string name="button4">Flowers</string>
 
     <!--
    Activity generada del botón Primos
    -->
 
-    <string name="app_name_primos">Calcular primos</string>
+    <string name="app_name_primos">Calculate prime numbers</string>
     <string name="textViewPrimosCalcular">Introduzca el número a calcular</string>
     <string name="textViewPrimosResultado">El número </string>
     <string name="textViewPrimosResultadoPositivo">es primo</string>
     <string name="textViewPrimosResultadoNegativo">no es primo</string>
-    <string name="ButtonCalcular">Calcular</string>
+    <string name="ButtonCalcular">Calculate</string>
 
     <!--
    Activity generada del botón País
    -->
-
-    <string name="app_name_pais">Países</string>
 
     <string name="pais1">España</string>
     <string name="pais2">Francia</string>
@@ -38,7 +36,7 @@
     <string name="pais10">Suiza</string>
 
     <string name="capital1">Madrid</string>
-    <string name="capital2">París</string>
+    <string name="capital2">Paris</string>
     <string name="capital3">Lisboa</string>
     <string name="capital4">Washington D.C</string>
     <string name="capital5">Ottawa</string>
@@ -54,6 +52,7 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name_pais">Countries</string>
 
 
 </resources>

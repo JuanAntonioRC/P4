@@ -15,7 +15,6 @@ public class MainActivity extends AppCompatActivity {
 
         Button buttonPrimos = findViewById(R.id.buttonPrimos);
         Button buttonPaises = findViewById(R.id.buttonBeer);
-        Button buttonAnimales = findViewById(R.id.buttonAnimales);
         Button buttonFlores = findViewById(R.id.buttonFlores);
 
         buttonPrimos.setOnClickListener(new View.OnClickListener() {
@@ -34,7 +33,6 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-
 
         buttonFlores.setOnClickListener(new View.OnClickListener() {
             @Override

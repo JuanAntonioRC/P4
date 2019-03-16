@@ -40,7 +40,7 @@
         android:text="@string/button3" />
 
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/buttonFlores"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignTop="@+id/buttonAnimales"
@@ -54,7 +54,7 @@
         android:layout_height="252dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="160dp"
-        android:layout_marginTop="25dp"
+        android:layout_marginStart="232dp"
+        android:layout_marginTop="111dp"
         app:srcCompat="@drawable/rocket" />
 </RelativeLayout>

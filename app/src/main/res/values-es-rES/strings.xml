@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">P4 PMDM</string>
+    <string name="app_name_pais">Países</string>
+    <string name="app_name_primos">Calcular primos</string>
+    <string name="button1">Primos</string>
+    <string name="button2">Paises</string>
+    <string name="button3">Animales</string>
+    <string name="button4">Flores</string>
+    <string name="ButtonCalcular">Calcular</string>
+    <string name="capital1">Madrid</string>
+    <string name="capital10">Berna</string>
+    <string name="capital2">Paris</string>
+    <string name="capital3">Lisboa</string>
+    <string name="capital4">Washintong D.C</string>
+    <string name="capital5">Ottawa</string>
+    <string name="capital6">Tokyo</string>
+    <string name="capital7">Pekin</string>
+    <string name="capital8">Seoul</string>
+    <string name="capital9">Berlin</string>
+    <string name="comparar">Compare</string>
+    <string name="espacio">" "</string>
+    <string name="hello_blank_fragment">"Hola "</string>
+    <string name="pais1">Spain</string>
+    <string name="pais10">Switzerland</string>
+    <string name="pais2">France</string>
+    <string name="pais3">Portugal</string>
+    <string name="pais4">EE.UU</string>
+    <string name="pais5">Canada</string>
+    <string name="pais6">Japan</string>
+    <string name="pais7">China</string>
+    <string name="pais8">South korea</string>
+    <string name="pais9">Germany</string>
+    <string name="resultadoNegativo">it\'s incorrect :(</string>
+    <string name="resultadoPositivo">it\'s correct!</string>
+    <string name="textViewPrimosCalcular">Introduce the number to calculate</string>
+    <string name="textViewPrimosResultado">The number</string>
+    <string name="textViewPrimosResultadoNegativo">is not prime</string>
+    <string name="textViewPrimosResultadoPositivo">is prime</string>
+</resources>
